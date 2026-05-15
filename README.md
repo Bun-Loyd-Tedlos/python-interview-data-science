@@ -1,6 +1,5 @@
 # Interdisciplinary Quantitative Analysis
-
-## Quantitative Trading: An Interdisciplinary Framework
+- Quantitative Trading: An Interdisciplinary Framework
 
 ## 1. Physics → Markets as Dynamic Systems
 
