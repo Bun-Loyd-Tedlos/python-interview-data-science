@@ -1,4 +1,4 @@
-# Interdisciplinary Quantitative Analysis: Markets as High-Dimensional Information Fields
+# Interdisciplinary Quantitative Analysis
 
 ## Quantitative Trading: An Interdisciplinary Framework
 
